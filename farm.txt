@@ -1,0 +1,3 @@
+farm 5000
+farming 1000
+far 200
